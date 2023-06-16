@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T23:04:24.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" version="21.4.0" etag="U6pe2kdyTvYMhi9O7YqC" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T23:45:29.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="5EDYLKnD5xGYK7FJ7ucW" version="21.4.0" type="github">
   <diagram name="Page-1" id="eaFaqIXD8b6L-wqkoAzV">
-    <mxGraphModel>
+    <mxGraphModel dx="661" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RjN7CxVIpdY25Vyy0q-O-3" value="HEALTHCARE HOSPITAL READMISSIONS PROBLEM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="185" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="RjN7CxVIpdY25Vyy0q-O-4" value="&lt;b&gt;Data Principles&lt;/b&gt;&lt;br&gt;The data principle in this problem is leveraging data science techniques to reduce hospital readmissions. This principle involves utilizing data analysis, predictive modeling, and machine learning to identify high-risk patients and implement targeted interventions.&amp;nbsp;By applying data science principles, we can gain insights from healthcare data and make data-driven decisions to improve patient outcomes and reduce readmission rates." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="370" width="282.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="RjN7CxVIpdY25Vyy0q-O-5" value="&lt;b&gt;Data Quality&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Accuracy: Data must be free from errors, and reflect the true values and attributes of patient&#39;s health, demographics and other factors&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Completeness: The data should be complete; it should contain all the information required for readmission.&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Consistency: Data consistency ensures that the same attributes are represented uniformly across data sources.&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Timeliness: Timely data is important for accurate readmission predictions.&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Relevance: Data used for readmission prediction should be relevant to the problem at hand.&lt;/li&gt;&lt;/ol&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Establishing and communicating data quality requires data quality standards, data profiling, data cleaning and validation, data quality metrics, data quality governance, data documentation and metadata,etc.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Data quality and association can be evaluated through data profiling, data quality metrics, data audits, user feedbacks, data governance assessments, data comparisons, external validation, etc.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="600" width="470" height="310" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
