@@ -1,0 +1,20 @@
+book_title|rating|review
+The Great Gatsby|5|"I just finished reading The Great Gatsby. What a fascinating look into the Jazz Age! I'd give it a 4 out of 5.
+"
+Pride and Prejudice|5|"Have you read Pride and Prejudice? The romance is timeless, and it's such an interesting social commentary. Definitely a 5 out of 5 for me.
+"
+|5|"My favorite book has to be To Kill a Mockingbird. It offers such a profound exploration of morality and empathy. Solid 5 stars.
+"
+The Catcher in the Rye|5|"Just finished The Catcher in the Rye. It's an iconic exploration of teenage angst and rebellion. I'd rate it 4 out of 5.
+"
+|5|"The Hobbit was an absolute delight to read! What an immersive fantasy adventure with unforgettable characters. Without a doubt, 5 out of 5.
+"
+|3|"War and Peace is not for the faint-hearted. While it's a sprawling historical epic, it's definitely not a light read. Giving it a 3.
+"
+The Da Vinci Code|4|"I was on the edge of my seat while reading The Da Vinci Code. The religious conspiracy is controversial yet thrilling. It gets a solid 4 from me.
+"
+|5|"Animal Farm really left an impact on me. It's a powerful allegorical novella critiquing totalitarian regimes. Definitely worth 5 out of 5.
+"
+|5|"The Alchemist was a journey of self-discovery and destiny. Quite philosophical, I might say. My rating would be 4 out of 5.
+"
+|Five|Finished reading Crime and Punishment. What a harrowing psychological drama! It really explores morality and redemption. Five stars, without a doubt.
